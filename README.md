@@ -10,20 +10,20 @@ The primary goal of this project is to create a collaborative tool that allows u
 
 ## Core Features
 
-#### Real-Time Synchronization:
-### Utilizes WebSockets for instant updates across all connected users.
-### Handles conflict resolution to ensure data integrity.
+- Real-Time Synchronization:
+- Utilizes WebSockets for instant updates across all connected users.
+- Handles conflict resolution to ensure data integrity.
 
 #### User Authentication:
-. Secure login and session handling using JWT or OAuth.
+- Secure login and session handling using JWT or OAuth.
 
 #### Scalable Backend:
-. Built on Node.js with a robust and efficient architecture for managing concurrent users.
+- Built on Node.js with a robust and efficient architecture for managing concurrent users.
 
 #### Dynamic Frontend:
-. Developed using React.js, ensuring a smooth and interactive user experience.
+- Developed using React.js, ensuring a smooth and interactive user experience.
 
 #### Collaboration Tools:
-. Multi-user text editing or coding.
-. Chat/messaging integration.
-. User cursors to visualize co-editors' positions.
+- Multi-user text editing or coding.
+- Chat/messaging integration.
+- User cursors to visualize co-editors' positions.
